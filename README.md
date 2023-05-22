@@ -1,9 +1,8 @@
 ## Bem-vindo!!! 👋 
+![cms_files_10224_1671211139Prancheta_3](https://github.com/AllanR1991/AllanR1991/assets/22855740/bff54bb3-c0e6-4a63-972d-a6bdeb23f9d9)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <div>
- 
  Meu nome é Allan Rodrigues dos Santos sou formado em Sistemas de Informação
  
  Estudando Dessenvolvimento de Sistemas pelo Senai Informatica.

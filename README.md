@@ -11,9 +11,9 @@
  Meu hobbie é jogar 🎮, motociclismo 🏍.
 
 </div>
-
+<!--
 ![cms_files_10224_1671211139Prancheta_3](https://github.com/AllanR1991/AllanR1991/assets/22855740/bff54bb3-c0e6-4a63-972d-a6bdeb23f9d9)
-
+-->
 ## ⭐ Informações sobre minha conta GitHub   
  <div>
   <a href="https://github.com/AllanR1991">

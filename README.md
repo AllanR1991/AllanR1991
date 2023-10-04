@@ -1,4 +1,8 @@
 
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+</div>
+
 # Olá, sou Allan Rodrigues! 👋 
 
 Sou formado em Sistemas de Informação e atualmente estou estudando Desenvolvimento de Sistemas pelo Senai Informática. Estou em busca de migração de área. Nos meus tempos livres, gosto de jogar 🎮 e andar de moto 🏍.

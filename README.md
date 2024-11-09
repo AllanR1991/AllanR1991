@@ -1,9 +1,11 @@
-
+<!--
 <div>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 </div>
 
-# Olá, sou Allan Rodrigues! 👋 
+# Olá, sou Allan Rodrigues! 👋 -->
+![Logo Black](https://github.com/user-attachments/assets/0fa5a96b-56c7-4d96-bb2f-4f2d074bf48a)
 
 Sou formado em Sistemas de Informação e atualmente estou estudando Desenvolvimento de Sistemas pelo Senai Informática. Estou em busca de migração de área. Nos meus tempos livres, gosto de jogar 🎮 e andar de moto 🏍.
 

@@ -14,9 +14,9 @@ Sou um desenvolvedor apaixonado por resolver problemas e aprender coisas novas. 
 
 
 - <a href="https://allanr1991.github.io/alura_oracle-ProjetoPortifolio-html_css/">Portifólio</a>
-- <a href="https://allanr1991.github.io/alura-numeroSecreto-JSAudio/">Número secreto</a>
-- <a href="https://github.com/AllanR1991/senai-InLook-webApi">InLock Web Api</a>
-- <a href="https://github.com/AllanR1991/senai-projetoLojaVirtual-cSharpPoo">Projeto Loja Virtual</a>
+- <a href="https://github.com/AllanR1991/vitalhubteamwork">VitalHub</a>
+- <a href="https://github.com/AllanR1991/LiveFestApp">Live Fest</a>
+- <a href="https://github.com/AllanR1991/senai-projetoGamer-htmlCssJs">Projeto Gamer</a>
 
 
 <div>
